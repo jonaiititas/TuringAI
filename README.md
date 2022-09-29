@@ -2,7 +2,7 @@
 
 TuringAI Project: machine learning based web application that allows user to compare their or someone elses face to those of various politics. Face detection and extraction was develeped using MTCNN and FaceNet models. Web-app was developed using flask.
 
-Authors: Vykintas Valužis, Titas Jonaitis
+Authors: Vykintas Valužis, Titas Jonaitis.
 Project was developed as a final coursework for Introduction to Artifical Intelligence course at Turing School.
 
 ## Setup
